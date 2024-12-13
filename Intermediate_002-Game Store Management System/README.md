@@ -1,4 +1,4 @@
-# Video Game Rental System
+# Video Game Rental System 🏪
 
 A comprehensive **Video Game Rental System** written in C#, designed to manage a library of video games across different platforms (PC, Console, Mobile). This project demonstrates key Object-Oriented Programming (OOP) principles, such as abstraction, inheritance, polymorphism, and interface implementation, while maintaining clean code architecture and adhering to the Single Responsibility Principle (SRP).
 
