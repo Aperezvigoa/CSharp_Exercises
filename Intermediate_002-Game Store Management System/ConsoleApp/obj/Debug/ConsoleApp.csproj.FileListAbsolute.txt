@@ -1,0 +1,10 @@
+C:\Users\alexp\source\repos\CSharpCourse\Intermediate_002-Game Store Management System\ConsoleApp\bin\Debug\ConsoleApp.exe.config
+C:\Users\alexp\source\repos\CSharpCourse\Intermediate_002-Game Store Management System\ConsoleApp\bin\Debug\ConsoleApp.exe
+C:\Users\alexp\source\repos\CSharpCourse\Intermediate_002-Game Store Management System\ConsoleApp\bin\Debug\ConsoleApp.pdb
+C:\Users\alexp\source\repos\CSharpCourse\Intermediate_002-Game Store Management System\ConsoleApp\bin\Debug\Intermediate_002-Game Store Management System.dll
+C:\Users\alexp\source\repos\CSharpCourse\Intermediate_002-Game Store Management System\ConsoleApp\bin\Debug\Intermediate_002-Game Store Management System.pdb
+C:\Users\alexp\source\repos\CSharpCourse\Intermediate_002-Game Store Management System\ConsoleApp\obj\Debug\ConsoleApp.csproj.AssemblyReference.cache
+C:\Users\alexp\source\repos\CSharpCourse\Intermediate_002-Game Store Management System\ConsoleApp\obj\Debug\ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\alexp\source\repos\CSharpCourse\Intermediate_002-Game Store Management System\ConsoleApp\obj\Debug\ConsoleApp.csproj.Up2Date
+C:\Users\alexp\source\repos\CSharpCourse\Intermediate_002-Game Store Management System\ConsoleApp\obj\Debug\ConsoleApp.exe
+C:\Users\alexp\source\repos\CSharpCourse\Intermediate_002-Game Store Management System\ConsoleApp\obj\Debug\ConsoleApp.pdb

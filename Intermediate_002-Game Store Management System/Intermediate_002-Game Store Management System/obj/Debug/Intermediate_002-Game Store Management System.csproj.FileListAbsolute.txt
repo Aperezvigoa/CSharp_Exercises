@@ -1,0 +1,6 @@
+C:\Users\alexp\source\repos\CSharpCourse\Intermediate_002-Game Store Management System\Intermediate_002-Game Store Management System\bin\Debug\Intermediate_002-Game Store Management System.dll
+C:\Users\alexp\source\repos\CSharpCourse\Intermediate_002-Game Store Management System\Intermediate_002-Game Store Management System\bin\Debug\Intermediate_002-Game Store Management System.pdb
+C:\Users\alexp\source\repos\CSharpCourse\Intermediate_002-Game Store Management System\Intermediate_002-Game Store Management System\obj\Debug\Intermediate_002-Game Store Management System.csproj.AssemblyReference.cache
+C:\Users\alexp\source\repos\CSharpCourse\Intermediate_002-Game Store Management System\Intermediate_002-Game Store Management System\obj\Debug\Intermediate_002-Game Store Management System.csproj.CoreCompileInputs.cache
+C:\Users\alexp\source\repos\CSharpCourse\Intermediate_002-Game Store Management System\Intermediate_002-Game Store Management System\obj\Debug\Intermediate_002-Game Store Management System.dll
+C:\Users\alexp\source\repos\CSharpCourse\Intermediate_002-Game Store Management System\Intermediate_002-Game Store Management System\obj\Debug\Intermediate_002-Game Store Management System.pdb
