@@ -1,4 +1,4 @@
-# CSharp_Exercises
+# CSharp_Exercises 
 
 This repository is a curated collection of C# projects and exercises designed to provide a hands-on approach to learning and mastering C# programming. It serves as an educational tool for beginners and intermediate developers to strengthen their skills, focusing on Object-Oriented Programming (OOP), modular design, and the SOLID principles.
 
